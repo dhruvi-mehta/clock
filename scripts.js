@@ -71,3 +71,4 @@ let m1 = map(value1, 0, 60, 0, height);
 ellipse(700, m1, 49.5, 49.5);
 // rect(00, m1, 1500, 20);
 }
+
